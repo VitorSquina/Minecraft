@@ -11,5 +11,3 @@ export {
 	woodImg,
 	logImg,
 }
-
-export default images
